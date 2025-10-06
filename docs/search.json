@@ -12,26 +12,5 @@
     "title": "Hi, I’m Trang 👩🏻‍💻",
     "section": "",
     "text": "I enjoy exploring structured and unstructured data to uncover insights that help teams make smarter business decisions. Collaborating with others and transforming data into meaningful action is what makes my work exciting.\n\n\nYou can learn more about me here"
-  },
-  {
-    "objectID": "about.html#about-me",
-    "href": "about.html#about-me",
-    "title": "About",
-    "section": "",
-    "text": "I’m a data enthusiast with a passion for turning complex information into meaningful insights. Beyond the numbers, I love exploring the world, seeking new experiences, and learning continuously. My curiosity drives me to uncover patterns, solve problems, and embrace both challenges and adventures.\n\n\n\nExperience\n\n\nSkills\n\n\n\n&lt;div class=\"tab-pane fade show active\" id=\"experience\" role=\"tabpanel\"&gt;\n  - **Data Scientist Intern** – Worked on genetic data analysis and predictive modeling.&lt;br&gt;\n  - **Marketing & Data Lead** – Managed company-wide analytics and digital campaigns.&lt;br&gt;\n  - **Research Technician** – Conducted lab experiments and data collection.\n&lt;/div&gt;\n&lt;div class=\"tab-pane fade\" id=\"skills\" role=\"tabpanel\"&gt;\n  - **Programming:** Python, R, SQL (PostgreSQL), Bash/Zsh, Linux&lt;br&gt;\n  - **Frameworks & Tools:** TensorFlow, Scikit-learn, Pandas, NumPy, ArcGIS, Jupyter Notebook&lt;br&gt;\n  - **Other:** Statistics, Machine Learning, Project Management, Problem-Solving\n&lt;/div&gt;"
-  },
-  {
-    "objectID": "about.html#details",
-    "href": "about.html#details",
-    "title": "About",
-    "section": "Details",
-    "text": "Details\n\nExperience\n\nData Scientist Intern – Worked on genetic data analysis and predictive modeling.\nMarketing & Data Lead – Managed company-wide analytics and digital campaigns.\nResearch Technician – Conducted lab experiments and data collection.\n\n\n\nSkills\n\nProgramming: Python, R, SQL (PostgreSQL), Bash/Zsh, Linux\n\nFrameworks & Tools: TensorFlow, Scikit-learn, Pandas, NumPy, ArcGIS, Jupyter Notebook\n\nOther: Statistics, Machine Learning, Project Management, Problem-Solving"
-  },
-  {
-    "objectID": "about.html#my-work-life",
-    "href": "about.html#my-work-life",
-    "title": "More About Me",
-    "section": "",
-    "text": "I’m driven by curiosity and a love for discovery — at work, that means tackling complex problems, and outside of it, it means hiking, exploring, and hanging out with my dog. I enjoy learning from every adventure and bringing that sense of wonder into everything I do.\nFor a quick overview, download my resume\n\n\n\n\nExperience\n\n\n\n\nSkills\n\n\n\n\nEducation\n\n\n\n\n\n- Experience list\n\n\n- Skill list\n\n\n- Education list"
   }
 ]
