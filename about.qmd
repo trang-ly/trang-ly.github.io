@@ -151,17 +151,17 @@ Here are some highlights from my recent adventures:
 <p style="text-align:left; margin-top:5px;"><i>Harper's Ferry, September 2025.</i></p>
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 15px;">
-  <img class="lightbox-img" src="images/MtRainier1.jpg" data-large="images/MtRainier1.jpg" style="width:32%; cursor:pointer;">
-  <img class="lightbox-img" src="images/MtRainier2.jpg" data-large="images/MtRainier2.jpg" style="width:32%; cursor:pointer;">
+  <img class="lightbox-img" src="images/MtRainier1.1.jpg" data-large="images/MtRainier1.1.jpg" style="width:32%; cursor:pointer;">
+  <img class="lightbox-img" src="images/MtRainier2.1.jpg" data-large="images/MtRainier2.1.jpg" style="width:32%; cursor:pointer;">
   <img class="lightbox-img" src="images/MtRainier3.1.jpg" data-large="images/MtRainier3.1.jpg" style="width:32%; cursor:pointer;">
 </div>
 
 <p style="text-align:left; margin-top:5px;"><i>Mt. Rainier, July 2025.</i></p>
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
-  <img class="lightbox-img" src="images/ORCoast1.jpg" data-large="images/ORCoast1.jpg" style="width:32%; cursor:pointer;">
-  <img class="lightbox-img" src="images/ORCoast2.jpg" data-large="images/ORCoast2.jpg" style="width:32%; cursor:pointer;">
-  <img class="lightbox-img" src="images/ORCoast3.jpg" data-large="images/ORCoast3.jpg" style="width:32%; cursor:pointer;">
+  <img class="lightbox-img" src="images/ORCoast1.1.jpg" data-large="images/ORCoast1.1.jpg" style="width:32%; cursor:pointer;">
+  <img class="lightbox-img" src="images/ORCoast2.1.jpg" data-large="images/ORCoast2.1.jpg" style="width:32%; cursor:pointer;">
+  <img class="lightbox-img" src="images/ORCoast3.1.jpg" data-large="images/ORCoast3.1.jpg" style="width:32%; cursor:pointer;">
 </div>
 
 <p style="text-align:left; margin-top:5px;"><i>Oregon Coast, March 2025.</i></p>
