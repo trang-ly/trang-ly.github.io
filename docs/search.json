@@ -1,16 +1,37 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "trang-ly.github.io",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
+    "title": "More About Me",
+    "section": "",
+    "text": "My Work Life\n\nI’m driven by curiosity and a love for discovery — at work, that means tackling complex problems, and outside of it, it means hiking, exploring, and hanging out with my dog. I enjoy learning from every adventure and bringing that sense of wonder into everything I do.\nFor a quick overview, download my resume \n\n\n\n\nExperience\n\n\n\n\nSkills\n\n\n\n\nEducation\n\n\n\n\n\n\n\nOperations Administrator\n\n\nHNJ GroupFalls Church, VA | Sept. 2024 – Present\n\n\n\nSystem & Data Management – Provide front-line operational support by managing business accounts, identifying and resolving reporting errors, and correcting data discrepancies to ensure systems remain accurate, accessible, and optimized for executive use.\n\n\nAudit & Compliance Oversight – Conduct regular multi-location audits across payroll, financial, and marketing systems. Through detailed analysis, I identify discrepancies, implement corrective measures, and maintain compliance with internal standards, directly improving data reliability and operational performance.\n\n\nCross-Functional Coordination – Manage contractor activities by reviewing data submissions, validating operational metrics, and enforcing consistency with established procedures. My oversight ensures alignment between on-the-ground execution and corporate objectives.\n\n\n\n\nResearch Data Intern\n\nResearch conducted with the Rosenberg Laboratory in Evolutionary Biological Data Science.\n\nVirginia Commonwealth University, Center for Biological Data ScienceRichmond, VA | May 2023 – May 2024\n\n\n\nData Pipeline Development – Designed and maintained a Python-based data pipeline capable of processing and analyzing large-scale biological datasets. By automating manual workflows and optimizing performance, I reduced processing time and improved reproducibility across research projects.\n\n\nHigh-Performance Computing – Leveraged Linux-based cluster computing resources to parallelize data transformations and analyses. This approach significantly accelerated processing of a 120 GB genomic dataset, enabling research teams to derive insights faster and with greater efficiency.\n\n\nStatistical Analysis & Insight Generation – Applied regression models to detect and interpret trends within genomic data, revealing significant patterns that contributed to research findings. These results provided actionable insights that informed experimental design and guided strategic decisions within the lab.\n\n\n\n\nDatabase Analyst\n\n\nVirginia Commonwealth University, Life SciencesRichmond, VA | Jan. 2023 – June 2023\n\n\n\nPython Automation & Data Integration – Developed scripts to automate extraction, cleaning, and integration of species data, improving update efficiency and ensuring accuracy for the Reptile Database (reptile-database.org).\n\n\nData Mining & Validation – Implemented advanced data mining methods to clean, validate, and structure large volumes of unstructured datasets. This work enabled more reliable species classification and supported the overall integrity of the database.\n\n\nMachine Learning for Multilingual Data – Applied natural language processing and classification algorithms to identify and categorize passages in multiple languages. This enhanced the database’s capability to incorporate multilingual sources, broadening its usefulness for researchers.\n\n\n\n\nResearch Laboratory Technician\n\nResearch conducted with the Olivares-Navarrete Laboratory.\n\nVirginia Commonwealth University, College of EngineeringRichmond, VA | Sept. 2021 – May 2022\n\n\n\nAnimal Handling & Surgical Procedures – Administered anesthetics and performed surgical procedures on mice, maintaining strict compliance with ethical guidelines and ensuring accurate, careful handling.\n\n\nSample Preparation & Cellular Studies – Extracted bone tissue to obtain cells for immunological experiments, enabling investigations into cellular function and supporting the lab’s broader research objectives.\n\n\nResearch Support & Laboratory Practices – Assisted with routine lab operations, maintained organized records, and followed protocols to ensure data reliability and reproducibility.\n\n\n\n\n\nProgramming & Scripting\n\n\nPython (data analysis, scripting, machine learning)\n\n\nR (statistical analysis, data visualization)\n\n\nSQL (PostgreSQL, database querying)\n\n\nBash/Zsh (automation, Linux shell scripting)\n\n\nLinux command-line & environment management\n\n\nFrameworks & Tools\n\n\nPandas, NumPy (data manipulation and analysis)\n\n\nData visualization: Matplotlib, Seaborn, Plotly\n\n\nTensorFlow, Scikit-learn (machine learning)\n\n\nJupyter Notebook (interactive analysis & documentation)\n\n\nVersion control with Git/GitHub\n\n\nOther Skills\n\n\nData cleaning, transformation, and integration\n\n\nStatistics & regression analysis\n\n\nMachine learning model design and evaluation\n\n\nProject management & cross-functional collaboration\n\n\nProblem-solving and process improvement\n\n\nTechnical documentation & reporting\n\n\n\n\n\nVirginia Commonwealth University Center for Biological Data Science, Richmond, VA\n\n\nM.S., Biological Data Science — May 2024\n\n\nBioinformatics Graduate Student Organization — May 2023 – May 2024\n\n\nSchool of Humanities and Sciences, Richmond, VA\n\n\nB.S., Interdisciplinary Science (Biology), minor in Chemistry — May 2022\n\n\n\n\n\n\n\n\n\nLife Outside Work\n\nHere are some highlights from my recent adventures:\n\n \n\n\nHarper’s Ferry, September 2025.\n\n\n  \n\n\nMt. Rainier, July 2025.\n\n\n  \n\n\nOregon Coast, March 2025."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Trang 👩🏻‍💻",
+    "section": "",
+    "text": "I enjoy exploring structured and unstructured data to uncover insights that help teams make smarter business decisions. Collaborating with others and transforming data into meaningful action is what makes my work exciting.\n\n\nYou can learn more about me here"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I’m a data enthusiast with a passion for turning complex information into meaningful insights. Beyond the numbers, I love exploring the world, seeking new experiences, and learning continuously. My curiosity drives me to uncover patterns, solve problems, and embrace both challenges and adventures.\n\n\n\nExperience\n\n\nSkills\n\n\n\n&lt;div class=\"tab-pane fade show active\" id=\"experience\" role=\"tabpanel\"&gt;\n  - **Data Scientist Intern** – Worked on genetic data analysis and predictive modeling.&lt;br&gt;\n  - **Marketing & Data Lead** – Managed company-wide analytics and digital campaigns.&lt;br&gt;\n  - **Research Technician** – Conducted lab experiments and data collection.\n&lt;/div&gt;\n&lt;div class=\"tab-pane fade\" id=\"skills\" role=\"tabpanel\"&gt;\n  - **Programming:** Python, R, SQL (PostgreSQL), Bash/Zsh, Linux&lt;br&gt;\n  - **Frameworks & Tools:** TensorFlow, Scikit-learn, Pandas, NumPy, ArcGIS, Jupyter Notebook&lt;br&gt;\n  - **Other:** Statistics, Machine Learning, Project Management, Problem-Solving\n&lt;/div&gt;"
+  },
+  {
+    "objectID": "about.html#details",
+    "href": "about.html#details",
+    "title": "About",
+    "section": "Details",
+    "text": "Details\n\nExperience\n\nData Scientist Intern – Worked on genetic data analysis and predictive modeling.\nMarketing & Data Lead – Managed company-wide analytics and digital campaigns.\nResearch Technician – Conducted lab experiments and data collection.\n\n\n\nSkills\n\nProgramming: Python, R, SQL (PostgreSQL), Bash/Zsh, Linux\n\nFrameworks & Tools: TensorFlow, Scikit-learn, Pandas, NumPy, ArcGIS, Jupyter Notebook\n\nOther: Statistics, Machine Learning, Project Management, Problem-Solving"
+  },
+  {
+    "objectID": "about.html#my-work-life",
+    "href": "about.html#my-work-life",
+    "title": "More About Me",
+    "section": "",
+    "text": "I’m driven by curiosity and a love for discovery — at work, that means tackling complex problems, and outside of it, it means hiking, exploring, and hanging out with my dog. I enjoy learning from every adventure and bringing that sense of wonder into everything I do.\nFor a quick overview, download my resume\n\n\n\n\nExperience\n\n\n\n\nSkills\n\n\n\n\nEducation\n\n\n\n\n\n- Experience list\n\n\n- Skill list\n\n\n- Education list"
   }
 ]

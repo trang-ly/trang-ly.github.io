@@ -3,16 +3,26 @@ project:
   output-dir: docs
 
 website:
-  title: "trang-ly.github.io"
+  title: "Trang Ly"
   navbar:
-    left:
+    background: light
+    foreground: dark
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About Me
+      - text: Get in Touch!
+        menu:
+          - href: mailto:trangly48@gmail.com
+            text: Email
+          - href: https://www.linkedin.com/in/trang-t-ly
+            text: LinkedIn
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: flatly
     css: styles.css
     toc: true
 

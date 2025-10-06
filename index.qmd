@@ -1,11 +1,30 @@
 ---
-title: "trang-ly.github.io"
+title: "Hi, I'm Trang 👩🏻‍💻"
+about:
+  template: jolla
+format:
+  html:
+    css: styles.css
 ---
 
-This is a Quarto website.
+<div class="slide-in-left" style="text-align: center;">
+I enjoy exploring structured and unstructured data to uncover insights that help teams make smarter business decisions. Collaborating with others and transforming data into meaningful action is what makes my work exciting.
+</div>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<div class="slide-in-left" style="margin-top: 20px;">
+[You can learn more about me here](about.qmd){.btn .btn-outline-primary}
+</div>
 
-```{r}
-1 + 1
-```
+<div class="slide-in-left" style="margin-top: 20px; display: flex; justify-content: center; gap: 15px;">
+  <a href="https://www.linkedin.com/in/trang-t-ly" target="_blank" style="font-size: 1.2rem; color: #0A66C2; text-decoration: none;">
+    <i class="bi bi-linkedin"></i>
+  </a>
+
+  <a href="https://github.com/trang-ly" target="_blank" style="font-size: 1.2rem; color: #181717; text-decoration: none;">
+    <i class="bi bi-github"></i>
+  </a>
+  
+  <a href="mailto:trangly48@gmail.com" target="_blank" style="font-size: 1.2rem; color: #D44638; text-decoration: none;">
+    <i class="bi bi-envelope-fill"></i>
+  </a>
+</div>

@@ -1,9 +1,222 @@
 ---
-title: "About"
+title: "More About Me"
+format: 
+  html:
+    theme: flatly
 ---
 
-About this site
+<div style="max-width: 800px; margin: auto;">
 
-```{r}
-1 + 1
-```
+<h3>My Work Life</h3>
+
+I’m driven by curiosity and a love for discovery — at work, that means tackling complex problems, and outside of it, it means hiking, exploring, and hanging out with my dog. I enjoy learning from every adventure and bringing that sense of wonder into everything I do.
+
+For a quick overview, <a href="Trang-Ly-Resume.pdf" class="btn btn-outline-primary" download target="_blank">download my resume
+</a>
+
+<div class="tabbable">
+<ul class="nav nav-tabs" id="myTab" role="tablist">
+<li class="nav-item" role="presentation">
+<button class="nav-link active" id="experience-tab" data-bs-toggle="tab" data-bs-target="#experience" type="button" role="tab">Experience</button>
+</li>
+
+<li class="nav-item" role="presentation">
+<button class="nav-link" id="skills-tab" data-bs-toggle="tab" data-bs-target="#skills" type="button" role="tab">Skills</button>
+</li>
+
+<li class="nav-item" role="presentation">
+<button class="nav-link" id="education-tab" data-bs-toggle="tab" data-bs-target="#education" type="button" role="tab">Education</button>
+</li>
+</ul>
+
+<div class="tab-content mt-3">
+<!-- Experience -->
+<div class="tab-pane fade show active" id="experience" role="tabpanel">
+<h5>Operations Administrator</h5>
+
+<p><i>HNJ Group<br>Falls Church, VA \| Sept. 2024 – Present</i></p>
+
+<ul>
+<li><strong>System & Data Management</strong> – Provide front-line operational support by managing business accounts, identifying and resolving reporting errors, and correcting data discrepancies to ensure systems remain accurate, accessible, and optimized for executive use.</li>
+
+<li><strong>Audit & Compliance Oversight</strong> – Conduct regular multi-location audits across payroll, financial, and marketing systems. Through detailed analysis, I identify discrepancies, implement corrective measures, and maintain compliance with internal standards, directly improving data reliability and operational performance.</li>
+
+<li><strong>Cross-Functional Coordination</strong> – Manage contractor activities by reviewing data submissions, validating operational metrics, and enforcing consistency with established procedures. My oversight ensures alignment between on-the-ground execution and corporate objectives.</li>
+</ul>
+
+<hr style="margin: 25px 0;">
+<h5>Research Data Intern</h5>
+
+Research conducted with the <a href="https://www.rosenberglab.net" target="_blank" rel="noopener noreferrer">Rosenberg Laboratory in Evolutionary Biological Data Science</a>.
+
+<p><i>Virginia Commonwealth University, Center for Biological Data Science<br>Richmond, VA \| May 2023 – May 2024</i></p>
+
+<ul>
+<li><strong>Data Pipeline Development</strong> – Designed and maintained a Python-based data pipeline capable of processing and analyzing large-scale biological datasets. By automating manual workflows and optimizing performance, I reduced processing time and improved reproducibility across research projects.</li>
+
+<li><strong>High-Performance Computing</strong> – Leveraged Linux-based cluster computing resources to parallelize data transformations and analyses. This approach significantly accelerated processing of a 120 GB genomic dataset, enabling research teams to derive insights faster and with greater efficiency.</li>
+
+<li><strong>Statistical Analysis & Insight Generation</strong> – Applied regression models to detect and interpret trends within genomic data, revealing significant patterns that contributed to research findings. These results provided actionable insights that informed experimental design and guided strategic decisions within the lab.</li>
+</ul>
+
+<hr style="margin: 25px 0;">
+<h5>Database Analyst</h5>
+
+<p><i>Virginia Commonwealth University, Life Sciences<br>Richmond, VA \| Jan. 2023 – June 2023</i></p>
+
+<ul>
+<li><strong>Python Automation & Data Integration</strong> – Developed scripts to automate extraction, cleaning, and integration of species data, improving update efficiency and ensuring accuracy for the Reptile Database (<a href="http://www.reptile-database.org" target="_blank" rel="noopener noreferrer">reptile-database.org</a>).</li>
+
+<li><strong>Data Mining & Validation</strong> – Implemented advanced data mining methods to clean, validate, and structure large volumes of unstructured datasets. This work enabled more reliable species classification and supported the overall integrity of the database.</li>
+
+<li><strong>Machine Learning for Multilingual Data</strong> – Applied natural language processing and classification algorithms to identify and categorize passages in multiple languages. This enhanced the database’s capability to incorporate multilingual sources, broadening its usefulness for researchers.</li>
+</ul>
+
+<hr style="margin: 25px 0;">
+<h5>Research Laboratory Technician</h5>
+
+Research conducted with the <a href="http://www.olivares-navarretelab.com" target="_blank" rel="noopener noreferrer">Olivares-Navarrete Laboratory</a>.
+
+<p><i>Virginia Commonwealth University, College of Engineering<br>Richmond, VA \| Sept. 2021 – May 2022</i></p>
+
+<ul>
+<li><strong>Animal Handling & Surgical Procedures</strong> – Administered anesthetics and performed surgical procedures on mice, maintaining strict compliance with ethical guidelines and ensuring accurate, careful handling.</li>
+
+<li><strong>Sample Preparation & Cellular Studies</strong> – Extracted bone tissue to obtain cells for immunological experiments, enabling investigations into cellular function and supporting the lab’s broader research objectives.</li>
+
+<li><strong>Research Support & Laboratory Practices</strong> – Assisted with routine lab operations, maintained organized records, and followed protocols to ensure data reliability and reproducibility.</li>
+
+</ul>
+</div>
+
+<!-- Skills -->
+<div class="tab-pane fade" id="skills" role="tabpanel">
+  <strong>Programming & Scripting</strong>
+  <ul style="margin-top:5px;">
+    <li>Python (data analysis, scripting, machine learning)</li>
+    <li>R (statistical analysis, data visualization)</li>
+    <li>SQL (PostgreSQL, database querying)</li>
+    <li>Bash/Zsh (automation, Linux shell scripting)</li>
+    <li>Linux command-line & environment management</li>
+  </ul>
+
+  <strong>Frameworks & Tools</strong>
+  <ul style="margin-top:5px;">
+    <li>Pandas, NumPy (data manipulation and analysis)</li>
+    <li>Data visualization: Matplotlib, Seaborn, Plotly</li>
+    <li>TensorFlow, Scikit-learn (machine learning)</li>
+    <li>Jupyter Notebook (interactive analysis & documentation)</li>
+    <li>Version control with Git/GitHub</li>
+  </ul>
+
+  <strong>Other Skills</strong>
+  <ul style="margin-top:5px;">
+    <li>Data cleaning, transformation, and integration</li>
+    <li>Statistics & regression analysis</li>
+    <li>Machine learning model design and evaluation</li>
+    <li>Project management & cross-functional collaboration</li>
+    <li>Problem-solving and process improvement</li>
+    <li>Technical documentation & reporting</li>
+  </ul>
+</div>
+
+<!-- Education -->
+<div class="tab-pane fade" id="education" role="tabpanel">
+  <strong>Virginia Commonwealth University</strong><br>
+  <i>Center for Biological Data Science, Richmond, VA</i>
+  <ul style="margin-top:5px;">
+    <li>M.S., Biological Data Science — May 2024</li>
+    <li>Bioinformatics Graduate Student Organization — May 2023 – May 2024</li>
+  </ul>
+
+  <i>School of Humanities and Sciences, Richmond, VA</i>
+  <ul style="margin-top:5px;">
+    <li>B.S., Interdisciplinary Science (Biology), minor in Chemistry — May 2022</li>
+  </ul>
+</div>
+
+</div> <!-- End tab-content -->
+</div> <!-- End max-width container -->
+
+<hr style="margin-top:40px; margin-bottom:20px;">
+<h3>Life Outside Work</h3>
+
+Here are some highlights from my recent adventures:
+
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 15px;">
+  <img class="lightbox-img" src="images/HF1.jpg" data-large="images/HF1.jpg" style="width:32%; cursor:pointer;">
+  <img class="lightbox-img" src="images/HF2.jpg" data-large="images/HF2.jpg" style="width:32%; cursor:pointer;">
+</div>
+
+<p style="text-align:left; margin-top:5px;"><i>Harper's Ferry, September 2025.</i></p>
+
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 15px;">
+  <img class="lightbox-img" src="images/MtRainier1.jpg" data-large="images/MtRainier1.jpg" style="width:32%; cursor:pointer;">
+  <img class="lightbox-img" src="images/MtRainier2.jpg" data-large="images/MtRainier2.jpg" style="width:32%; cursor:pointer;">
+  <img class="lightbox-img" src="images/MtRainier3.1.jpg" data-large="images/MtRainier3.1.jpg" style="width:32%; cursor:pointer;">
+</div>
+
+<p style="text-align:left; margin-top:5px;"><i>Mt. Rainier, July 2025.</i></p>
+
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+  <img class="lightbox-img" src="images/ORCoast1.jpg" data-large="images/ORCoast1.jpg" style="width:32%; cursor:pointer;">
+  <img class="lightbox-img" src="images/ORCoast2.jpg" data-large="images/ORCoast2.jpg" style="width:32%; cursor:pointer;">
+  <img class="lightbox-img" src="images/ORCoast3.jpg" data-large="images/ORCoast3.jpg" style="width:32%; cursor:pointer;">
+</div>
+
+<p style="text-align:left; margin-top:5px;"><i>Oregon Coast, March 2025.</i></p>
+
+<!-- Lightbox -->
+<div id="lightbox" style="
+  display:none;
+  position:fixed;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  background-color: rgba(0,0,0,0.8);
+  justify-content:center;
+  align-items:center;
+  z-index:9999;
+">
+  <img id="lightbox-img" src="" style="
+    width:75vw;
+    height:75vh;
+    object-fit: contain;
+  ">
+</div>
+
+<script>
+// Lightbox functionality
+const lightbox = document.getElementById("lightbox");
+const lightboxImg = document.getElementById("lightbox-img");
+
+document.querySelectorAll(".lightbox-img").forEach(img => {
+  img.addEventListener("click", () => {
+    lightboxImg.src = img.dataset.large;
+    lightbox.style.display = "flex";
+  });
+});
+
+lightbox.addEventListener("click", () => {
+  lightbox.style.display = "none";
+});
+
+// Disable right-click on all images
+document.querySelectorAll("img").forEach(img => {
+  img.addEventListener("contextmenu", e => e.preventDefault());
+});
+
+// Back to top button
+const backToTopBtn = document.createElement("button");
+backToTopBtn.innerText = "↑";
+backToTopBtn.className = "btn btn-outline-primary";
+backToTopBtn.style.cssText = "display:none; position:fixed; bottom:40px; right:40px; z-index:9999;";
+backToTopBtn.title = "Go to top";
+backToTopBtn.onclick = () => window.scrollTo({ top: 0, behavior: "smooth" });
+document.body.appendChild(backToTopBtn);
+
+window.addEventListener("scroll", () => {
+  backToTopBtn.style.display = window.scrollY > 100 ? "block" : "none";
+});
+</script>
