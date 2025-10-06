@@ -6,7 +6,6 @@ format:
 ---
 
 <div style="max-width: 800px; margin: auto;">
-co
 <h3>My Work Life</h3>
 
 I’m driven by curiosity and a love for discovery — at work, that means tackling complex problems, and outside of it, it means hiking, exploring, and hanging out with my dog. I enjoy learning from every adventure and bringing that sense of wonder into everything I do.
