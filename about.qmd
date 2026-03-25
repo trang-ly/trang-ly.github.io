@@ -10,7 +10,7 @@ format:
 
 I’m driven by curiosity and a love for discovery — at work, that means tackling complex problems, and outside of it, it means hiking, exploring, and hanging out with my dog. I enjoy learning from every adventure and bringing that sense of wonder into everything I do.
 
-For a quick overview, <a href="Trang-Ly-Resume.pdf" class="btn btn-outline-primary" download target="_blank">download my resume
+For a quick overview, <a href="Trang Ly-Resume 2026.pdf" class="btn btn-outline-primary" download target="_blank">download my resume
 </a>
 
 <div class="tabbable">
@@ -31,9 +31,14 @@ For a quick overview, <a href="Trang-Ly-Resume.pdf" class="btn btn-outline-prima
 <div class="tab-content mt-3">
 <!-- Experience -->
 <div class="tab-pane fade show active" id="experience" role="tabpanel">
+<h5>Market Research Analyst</h5>
+
+<p><i>DRB Group<br>Rockville, MD \| Mar 2026 – Present</i></p>
+
+<hr style="margin: 25px 0;">
 <h5>Operations Administrator</h5>
 
-<p><i>HNJ Group<br>Falls Church, VA \| Sept. 2024 – Present</i></p>
+<p><i>HNJ Group<br>Falls Church, VA \| Sep 2024 – Feb 2026</i></p>
 
 <ul>
 <li><strong>System & Data Management</strong> – Provide front-line operational support by managing business accounts, identifying and resolving reporting errors, and correcting data discrepancies to ensure systems remain accurate, accessible, and optimized for executive use.</li>
@@ -61,7 +66,7 @@ Research conducted with the <a href="https://www.rosenberglab.net" target="_blan
 <hr style="margin: 25px 0;">
 <h5>Database Analyst</h5>
 
-<p><i>Virginia Commonwealth University, Life Sciences<br>Richmond, VA \| Jan. 2023 – June 2023</i></p>
+<p><i>Virginia Commonwealth University, Life Sciences<br>Richmond, VA \| Jan 2023 – Jun 2023</i></p>
 
 <ul>
 <li><strong>Python Automation & Data Integration</strong> – Developed scripts to automate extraction, cleaning, and integration of species data, improving update efficiency and ensuring accuracy for the Reptile Database (<a href="http://www.reptile-database.org" target="_blank" rel="noopener noreferrer">reptile-database.org</a>).</li>
@@ -76,7 +81,7 @@ Research conducted with the <a href="https://www.rosenberglab.net" target="_blan
 
 Research conducted with the <a href="http://www.olivares-navarretelab.com" target="_blank" rel="noopener noreferrer">Olivares-Navarrete Laboratory</a>.
 
-<p><i>Virginia Commonwealth University, College of Engineering<br>Richmond, VA \| Sept. 2021 – May 2022</i></p>
+<p><i>Virginia Commonwealth University, College of Engineering<br>Richmond, VA \| Sep 2021 – May 2022</i></p>
 
 <ul>
 <li><strong>Animal Handling & Surgical Procedures</strong> – Administered anesthetics and performed surgical procedures on mice, maintaining strict compliance with ethical guidelines and ensuring accurate, careful handling.</li>
